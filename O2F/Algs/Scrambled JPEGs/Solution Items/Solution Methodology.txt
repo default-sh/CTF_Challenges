@@ -1,0 +1,5 @@
+To beat this challenge, simply reverse the instructions that were given (Except the first step.) by using your favorite scripting language of choice!
+
+Use the JPEG header as a guideline during the writing process.
+
+See my solver for a better idea.

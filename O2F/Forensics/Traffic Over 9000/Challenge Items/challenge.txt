@@ -1,0 +1,3 @@
+We isolated two machines onto a private network due to suspicious behavior. There seems to be be malicious traffic coming from one machine to the other. Help us decode what is being sent.
+
+NOTE: Make sure to wrap the message in the flag format, and that it is all uppercase. There are no symbols in the flag.

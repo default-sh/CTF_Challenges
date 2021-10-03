@@ -1,0 +1,5 @@
+Write a script that iterates through each pixel, where white = 1, black = 0, full opacity = 1, and no opacity = 0
+
+EX: (0, 0, 0, 255) == 0 and 1. XOR the two together and you will get the output pixel. "Xeeing" Things is a hint towards XORing.
+
+Do this for each pixel and you will be left with binary. Convert the binary back into bytes and you will have a PNG file that contains the flag (After solving the maze!)

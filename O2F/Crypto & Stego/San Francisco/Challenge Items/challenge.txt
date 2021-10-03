@@ -1,0 +1,3 @@
+A hacker changed the enable password on my Cisco router, and I can't get in! I don't want to reset it, the network is set up so perfectly... Maybe you can help me figure out what the password is so I can change it back? I've provided a running configuration of the router. 
+
+NOTE: Please wrap the password with the flag format when submitting.

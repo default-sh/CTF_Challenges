@@ -1,0 +1,1 @@
+Open the track in Audacity and split both tracks into mono tracks. Invert one of the tracks. A secret message will be revealed. This utilizes a technique called phase cancellation to cancel out waves that will leave behind a message in one channel.

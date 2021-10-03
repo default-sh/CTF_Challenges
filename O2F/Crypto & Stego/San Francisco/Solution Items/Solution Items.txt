@@ -1,0 +1,1 @@
+Cisco routers usually use two methods of encryption -- MD5 (type 5) and a Bytelike Vignere cipher (type 7). Looking at the running config, we can see the password is "0211570F003919704B405A0B0". Running this in a Cisco type 7 decoder, you get the flag.

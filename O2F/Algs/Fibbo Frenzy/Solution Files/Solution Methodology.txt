@@ -1,0 +1,4 @@
+The key to beating this challenge is writing the program efficiently. Doing other methods will be slow because recursion is ineffcient even with beefy CPUs. 
+This is not a challenge of knowledge, but rather optmization whether it be your own, or someone elses.
+
+See program for solution.
