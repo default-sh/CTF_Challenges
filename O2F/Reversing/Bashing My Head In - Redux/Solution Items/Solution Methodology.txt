@@ -1,0 +1,3 @@
+The key for this challenge is notcing that the seed was generated using a time based format. And since the log provided the times that the commands were executed, it is entirely possible to brute-force all possible seeds that were used during the password generation process, and create a wordlist based on that to solve the challenge by using something like John The Ripper to brute force the zip hashes with this dictionary.
+It's also very important to note the timezone that these timestamps were generated in, because they were not posted using a global timezone. 
+See my solver for more info. 

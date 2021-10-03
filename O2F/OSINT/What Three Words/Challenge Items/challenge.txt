@@ -1,0 +1,26 @@
+Our cyber-crime team was scouting some well known hacker IRC's and we managed to pick up a conversation about a meetup. However, we can't figure out the location. Maybe you can decipher this conversation?
+NOTE: The flag is 02F{nameofthebusiness}, all lowercase and no spaces.
+
+[14:50:23] == h4ck3rm4n [h4ck3rm4n@hak-m4n.pnc.hakiirc] has joined.
+[14:51:11] == 1nf1n1t3h34t [1nf1n1t3h34t@lul-c4a.jrc.leetirc] has joined.
+[14:51:30] <1nf1n1t3h34t> Yo
+[14:52:11] <h4ck3rm4n> wh4t5 up d00d
+[14:52:18] <1nf1n1t3h34t> tired af tbh
+[14:52:28] <1nf1n1t3h34t> ready to get paid iykwim ;)
+[14:52:34] <h4ck3rm4n> h3llz y3ahz, l3z m4k3 b4nk
+[14:52:45] <1nf1n1t3h34t> you want to meet at the place?
+[14:52:49] <h4ck3rm4n> w0t 3 w0rdz 4 d4 pl4c3?
+[14:52:52] <1nf1n1t3h34t> you know
+[14:52:53] <1nf1n1t3h34t> new paint
+[14:52:55] <1nf1n1t3h34t> cashier thats funny
+[14:52:59] <1nf1n1t3h34t> has the money we gained
+[14:53:05] <h4ck3rm4n> 000000h y0u m34n TH4T pl4c3
+[14:53:10] <h4ck3rm4n> fr3sh b14ck p41nt
+[14:53:19] <h4ck3rm4n> y34h y34h! m4n w45 funny
+[14:53:28] <h4ck3rm4n> 1gh7, 1'11 b3 th3r3 4 d4 g4inz
+[14:53:32] <1nf1n1t3h34t> gained, spelling is important
+[14:53:35] <1nf1n1t3h34t> man, you gotta lose the leetspeak, it's annoying af
+[14:53:41] <h4ck3rm4n> wh473va l053r. 533 y4.
+[14:53:47] == h4ck3rm4n has quit.
+[14:53:49] == 1nf1n1t3h34t has quit.
+
