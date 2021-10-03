@@ -1,0 +1,1 @@
+Using pkcrack you can crack the zip file using the two similar files as a basis. "mem8.jpg" are both the same in both archives. This utilizes a plaintext attack on zip encryption.

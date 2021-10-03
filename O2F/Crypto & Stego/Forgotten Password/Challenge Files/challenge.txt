@@ -1,0 +1,3 @@
+My friend accidentally encrypted his meme archive and forgot the password! That in itself wouldn't be too bad, but he accidentally encrypted a picture of his driver's license in there too, and he lost it. So he needs proof of his identity for the secretary of state. Can you help us decrypt the zip file?
+
+NOTE: The intended solution for this challenge does not involve standard password cracking methods.
